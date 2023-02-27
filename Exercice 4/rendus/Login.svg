@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-Connexion">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Connexion" clip-path="url(#clip-Connexion)">
+    <rect width="375" height="812" fill="#f2f1f6"/>
+    <text id="Bienvenue_" data-name="Bienvenue !" transform="translate(20 95)" font-size="28" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-79.352" y="22">Bienvenue !</tspan></text>
+    <text id="Nous_sommes_ravis_de_vous_revoir." data-name="Nous sommes ravis
+de vous revoir." transform="translate(102 143)" font-size="18" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-79.011" y="14">Nous sommes ravis</tspan><tspan x="-58.527" y="36">de vous revoir.</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="334" height="60" rx="17" transform="translate(21 246)" fill="#fff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="334" height="60" rx="17" transform="translate(21 342)" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="334" height="60" rx="17" transform="translate(21 450)" fill="#5d4f93"/>
+    <text id="Nom_d_utilisateur" data-name="Nom d’utilisateur" transform="translate(34 226)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="9">Nom d’utilisateur</tspan></text>
+    <text id="Mot_de_passe" data-name="Mot de passe" transform="translate(34 322)" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="9">Mot de passe</tspan></text>
+    <text id="Se_connecter" data-name="Se connecter" transform="translate(41 470)" fill="#fff" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-62.803" y="15">Se connecter</tspan></text>
+    <text id="Connectez-vous_avec_" data-name="Connectez-vous avec " transform="translate(113 550)" font-size="14" font-family="Helvetica"><tspan x="-67.313" y="11">Connectez-vous avec </tspan></text>
+    <text id="Pas_encore_de_compte_Inscrivez-vous_" data-name="Pas encore de compte ? Inscrivez-vous !" transform="translate(187.5 749)" fill="#5d4f93" font-size="14" font-family="Helvetica"><tspan x="-130.73" y="0" fill="#000">Pas encore de compte ?</tspan><tspan y="0" fill="#5d4f93"> </tspan><tspan y="0" fill="#5d4f93" font-family="Helvetica-Bold, Helvetica" font-weight="700">Inscrivez-vous !</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(64 604)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="76" height="48" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="74" height="46" rx="9" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(150 604)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="76" height="48" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="74" height="46" rx="9" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(236 604)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="76" height="48" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="74" height="46" rx="9" fill="none"/>
+    </g>
+    <g id="icons8-google" transform="translate(87.919 613.919)">
+      <path id="Tracé_1" data-name="Tracé 1" d="M23.966,12.107h-.812v-.042H14.081V16.1h5.7a6.053,6.053,0,1,1-1.685-6.533l2.851-2.851a10.07,10.07,0,1,0,3.217,7.368A10.149,10.149,0,0,0,23.966,12.107Z" fill="#ffc107"/>
+      <path id="Tracé_2" data-name="Tracé 2" d="M6.306,9.389l3.312,2.429a6.036,6.036,0,0,1,9.619-2.254l2.851-2.851A10.061,10.061,0,0,0,6.306,9.389Z" transform="translate(-1.144)" fill="#ff3d00"/>
+      <path id="Tracé_3" data-name="Tracé 3" d="M15.169,36.091a10.034,10.034,0,0,0,6.759-2.617l-3.12-2.64a6.033,6.033,0,0,1-9.326-2.78L6.2,30.587A10.073,10.073,0,0,0,15.169,36.091Z" transform="translate(-1.089 -11.93)" fill="#4caf50"/>
+      <path id="Tracé_4" data-name="Tracé 4" d="M33.885,20.042h-.812V20H24v4.032h5.7a6.069,6.069,0,0,1-2.06,2.808h0l3.12,2.64a9.752,9.752,0,0,0,3.322-7.463A10.149,10.149,0,0,0,33.885,20.042Z" transform="translate(-9.919 -7.935)" fill="#1976d2"/>
+    </g>
+    <g id="icons8-facebook" transform="translate(258.919 612.919)">
+      <path id="Tracé_5" data-name="Tracé 5" d="M15.081,5A10.081,10.081,0,1,0,25.162,15.081,10.081,10.081,0,0,0,15.081,5Z" fill="#039be5"/>
+      <path id="Tracé_6" data-name="Tracé 6" d="M21.824,21.415h2.609l.41-2.65H21.823V17.316c0-1.1.36-2.077,1.39-2.077h1.655V12.926A14.057,14.057,0,0,0,22.8,12.8c-2.426,0-3.849,1.281-3.849,4.2v1.763H16.457v2.65h2.494V28.7a9.141,9.141,0,0,0,2.873.022Z" transform="translate(-5.378 -3.662)" fill="#fff"/>
+    </g>
+    <path id="icons8-apple-logo" d="M19.655,7.233A4.555,4.555,0,0,0,17.43,11.1a4.555,4.555,0,0,0,2.739,4.048,10.871,10.871,0,0,1-1.42,2.874c-.816,1.242-1.722,2.494-3.1,2.494-1.308,0-1.778-.828-3.288-.828-1.621,0-2.08.828-3.321.828-1.376,0-2.348-1.319-3.209-2.55a12.566,12.566,0,0,1-2.1-6.564,6.919,6.919,0,0,1,.85-3.623,5.055,5.055,0,0,1,4.182-2.55c1.319-.044,2.494.906,3.3.906.772,0,2.214-.906,3.847-.906A4.485,4.485,0,0,1,19.655,7.233Zm-7.7-2.259a3.982,3.982,0,0,1,1.017-3.1A4.292,4.292,0,0,1,16.009.356a4.378,4.378,0,0,1-1.118,3.165A3.436,3.436,0,0,1,11.95,4.974Z" transform="translate(175.55 617.644)"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-Liste-etudiants">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Liste-etudiants" clip-path="url(#clip-Liste-etudiants)">
+    <rect width="375" height="812" fill="#fff"/>
+    <text id="Liste_des_étudiants_du_groupe_2188_" data-name="Liste des étudiants du groupe 2188 " transform="translate(20 21)" font-size="32" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="31">Liste des étudiants du </tspan><tspan x="0" y="70">groupe 2188 </tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="334" height="48" rx="5" transform="translate(20 125)" fill="#f2f5fc"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="334" height="48" rx="5" transform="translate(20 183)" fill="#f2f5fc"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="334" height="48" rx="5" transform="translate(20 241)" fill="#f2f5fc"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="334" height="48" rx="5" transform="translate(20 299)" fill="#f2f5fc"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="334" height="48" rx="5" transform="translate(20 357)" fill="#f2f5fc"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="334" height="48" rx="5" transform="translate(20 415)" fill="#f2f5fc"/>
+    <text id="_Stéphane_Prosacco_" data-name=" Stéphane Prosacco " transform="translate(35 140)" font-size="16" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="15" xml:space="preserve"> Stéphane Prosacco </tspan></text>
+    <text id="Alix_Bizier_" data-name="Alix Bizier " transform="translate(35 198)" font-size="16" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="15">Alix Bizier </tspan></text>
+    <text id="Frédéric_Dastous_" data-name="Frédéric Dastous " transform="translate(35 256)" font-size="16" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="15">Frédéric Dastous </tspan></text>
+    <text id="Geoffrey_Lambotte" data-name="Geoffrey Lambotte" transform="translate(35 314)" font-size="16" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="15">Geoffrey Lambotte</tspan></text>
+    <text id="Madeline_Henrichon" data-name="Madeline Henrichon" transform="translate(35 372)" font-size="16" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="15">Madeline Henrichon</tspan></text>
+    <text id="Julie_Artois" data-name="Julie Artois" transform="translate(35 430)" font-size="16" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="15">Julie Artois</tspan></text>
+  </g>
+</svg>
