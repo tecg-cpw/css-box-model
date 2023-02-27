@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta name="description" content="Exercice simple sur le modèle boîte en CSS">
+        <meta name="keywords" content="CSS, HTML, Web, UI, Technique, intégration">
+        <meta name="author" content="F. Parmentier">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>
+            Le modèle boîte : exercice 4
+        </title>
+    </head>
+    <body>
+        <header>
+            <h1>
+                Bienvenue&nbsp;!
+            </h1>
+            <p class="baseline">
+                Nous sommes ravis de vous revoir.
+            </p>
+        </header>
+        <form action="#" method="post">
+            <div class="input-wrapper">
+                <label for="user">
+                    Nom d'utilisateur
+                </label>
+                <input type="text" name="user" id="user" required>
+            </div>
+            <div class="input-wrapper">
+                <label for="pw">
+                    Mot de passe
+                </label>
+                <input type="password" name="pw" id="pw" required>
+            </div>
+            <button type="submit" class="login">
+                Se connecter
+            </button>
+        </form>
+        <p class="alternatives">
+            Se connecter avec
+        </p>
+        <div class="social-login">
+            <button type="button" class="social-login-google">
+                <img src="./img/logo-google.svg" alt="Google" width="20" height="20">
+            </button><button type="button" class="social-login-apple">
+                <img src="./img/logo-apple.svg" alt="Google" width="16" height="20">
+            </button><button type="button" class="social-login-facebook">
+                <img src="./img/logo-facebook.svg" alt="Google" width="20" height="20">
+            </button>
+        </div>
+        <footer>
+            Pas encore de compte&nbsp;? <a href="#">Inscrivez-vous&nbsp;!</a>
+        </footer>
+    </body>
+</html>
