@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Exercice_1a">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Exercice_1a" data-name="Exercice 1a" clip-path="url(#clip-Exercice_1a)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="800" height="300" transform="translate(521 100)" fill="#e2edf5"/>
+    <text id="Le_modèle_boîte_:_exercice_1" data-name="Le modèle boîte : exercice 1" transform="translate(521 160)" font-size="48" font-family="Helvetica-Light, Helvetica" font-weight="300" letter-spacing="-0.01em"><tspan x="-298.56" y="37">Le modèle boîte : exercice 1</tspan></text>
+    <text id="L_élément_HTML_p_représente_un_paragraphe_de_texte._Les_paragraphes_sont_généralement_représentés_comme_des_blocs_et_séparés_par_un_espace_vertical_leur_première_ligne_est_également_parfois_indentée._Les_paragraphes_sont_des_éléments_blocs." data-name="L’élément HTML &lt;p&gt; représente un paragraphe de texte. Les paragraphes sont généralement représentés comme des blocs et séparés par un espace vertical, leur première ligne est également parfois indentée. Les paragraphes sont des éléments blocs." transform="translate(621 240)" font-size="18" font-family="Georgia"><tspan x="0" y="17">L’élément HTML &lt;p&gt; représente un paragraphe de texte. Les paragraphes </tspan><tspan x="0" y="43">sont généralement représentés comme des blocs et séparés par un espace </tspan><tspan x="0" y="69">vertical, leur première ligne est également parfois indentée. Les </tspan><tspan x="0" y="95">paragraphes sont des éléments blocs.</tspan></text>
+  </g>
+</svg>
