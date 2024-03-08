@@ -1,0 +1,35 @@
+body {
+    font-size: 1.125em; /* 18px/16px = 1.125em */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.444444; /* 26px/18px */
+    margin: 100px auto 0;
+    padding: 60px 100px;
+    max-width: 600px;
+    background-color: #E2EDF5;
+}
+
+html {
+    background-color: white;
+}
+
+h1 {
+    font-size: 2.66666666em; /* 48px/18px */
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.2083333333; /* 58px/48px */
+    letter-spacing: -.01em; /* -10/1000 = -0.01em */
+    margin-top: 0;
+    margin-bottom: .666666em; /* 32px/48px */
+}
+
+p {
+    margin: 0;
+}
+
+code {
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    color: #155380;
+    padding: 2px 3px;
+    background-color: #FFFFFF;
+    border-radius: 3px;
+}

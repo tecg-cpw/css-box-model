@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.125; /* 18px/16px */
+    padding: 21px;
+}
+
+h1 {
+    font-size: 2em; /* 32px/16px */
+    font-weight: 300;
+    line-height: 1.21875; /* 39px/32px */
+    margin-bottom: .84375em; /* 27px/32px */ 
+}
+
+li {
+    list-style-type: none;
+    background-color: #5479cf;
+    padding: 0.9375em; /* 15px/16px */
+    border-radius: 5px;
+}
+
+li + li {
+    margin-top: .625em; /* 10px/16px */
+}

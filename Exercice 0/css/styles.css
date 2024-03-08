@@ -1,0 +1,10 @@
+p {
+    background-color: lightgray;
+    border: 3px dotted #224466;
+    padding: 16px;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
